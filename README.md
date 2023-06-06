@@ -15,3 +15,5 @@ Python notes are just for test
 ## dictionary
 
 字典，使用一对花括号括起来，每个元素为一对键值对
+
+遍历字典需要使用`items()`函数
